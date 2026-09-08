@@ -114,7 +114,7 @@ Knowledge base files (`data/interview_knowledge/`):
 ---
 
 ## Technology Stack
-<img width="1453" height="548" alt="Screenshot 2026-09-08 133748" src="https://github.com/user-attachments/assets/cdb55d39-8cf6-4ed1-bd69-c207cda62c97" />
+
 
 
 | Layer | Technology |
