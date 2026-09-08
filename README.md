@@ -183,7 +183,7 @@ interview-trainer-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kummariBharath/Interview-Trainer-Agent
 cd interview-trainer-agent
 ```
 
