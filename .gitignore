@@ -1,0 +1,49 @@
+﻿# --- Secrets & Environment ---
+.env
+*.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Distribution / Packaging ---
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --- Testing ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- IDEs ---
+.idea/
+*.code-workspace
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Vector DB / Data ---
+data/vector_store/
+*.faiss
+*.pkl
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Jupyter ---
+.ipynb_checkpoints/

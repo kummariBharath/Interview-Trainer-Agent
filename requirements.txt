@@ -1,0 +1,25 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Interview Trainer Agent — Python Dependencies
+# Install with:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# IBM watsonx.ai Python SDK  (Granite + authentication)
+ibm-watsonx-ai>=1.1.2
+
+# Environment variable loading  (.env → os.environ)
+python-dotenv>=1.0.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# PDF resume parsing
+pypdf>=4.0.0
+
+# Sentence-embedding model  (all-MiniLM-L6-v2)
+sentence-transformers>=3.0.0
+
+# Vector similarity search
+faiss-cpu>=1.8.0
+
+# Numerical arrays  (required by sentence-transformers + FAISS)
+numpy>=1.26.0
